@@ -1,6 +1,6 @@
 # inventory-management
 reinvent and manage all an inventory needs with Go & Mongo
-
+commands to run on local
 
 GET : 
 curl -X GET http://localhost:3000
